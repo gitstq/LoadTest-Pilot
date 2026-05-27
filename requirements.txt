@@ -1,0 +1,3 @@
+# LoadTest-Pilot
+# Zero dependencies - Pure Python Standard Library
+# This file is kept for compatibility with pip
